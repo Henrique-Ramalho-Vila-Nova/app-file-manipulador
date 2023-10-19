@@ -3,8 +3,8 @@ O aplicativo, intitulado "File Manipulador" é uma aplicação Android desenvolv
 
 ## Na branch master faça os seguintes caminhos:
 
-  ## Para acessar o arquivo activity_main.xml faça o seguinte caminho
+  ### Para acessar o arquivo activity_main.xml faça o seguinte caminho
   - app > src > main > res > layout > activity_main.xml
 
-  ## Para acessar o arquivo MainActivity.java
+  ### Para acessar o arquivo MainActivity.java
   - app > src > androidTest > java > com > example > apparquivo > MainActivity.java
